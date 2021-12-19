@@ -1,0 +1,4 @@
+C:\Users\Rafael\Desktop\CursoC#\CalculadorHecto\CalculadorHecto\bin\Release\CalculadorHecto.exe.config
+C:\Users\Rafael\Desktop\CursoC#\CalculadorHecto\CalculadorHecto\obj\Release\CalculadorHecto.Form1.resources
+C:\Users\Rafael\Desktop\CursoC#\CalculadorHecto\CalculadorHecto\obj\Release\CalculadorHecto.Properties.Resources.resources
+C:\Users\Rafael\Desktop\CursoC#\CalculadorHecto\CalculadorHecto\obj\Release\CalculadorHecto.csproj.GenerateResource.Cache
